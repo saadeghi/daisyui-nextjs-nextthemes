@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "next-themes": "^0.0.15",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "daisyui": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
